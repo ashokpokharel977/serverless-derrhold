@@ -44,7 +44,7 @@ Parameters:
     Default: "us-east-2"
   TestingStackName:
     Type: String
-    Default: "sam-app"
+    Default: "Order-App"
   TestingPipelineExecutionRole:
     Type: String
     Default: "arn:aws:iam::426857564226:role/aws-sam-cli-managed-dev-pipe-PipelineExecutionRole-1LR7PQN0X49TW"
